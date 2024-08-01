@@ -1,8 +1,12 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: corne_left
+    shield: corne_central_left
   - board: nice_nano_v2
-    shield: corne_right
+    shield: corne_peripheral_left
+  - board: nice_nano_v2
+    shield: corne_peripheral_right
   - board: nice_nano_v2
     shield: settings_reset
+  - board: nice_nano_v2
+    shield: corne_central_dongle dongle_display
